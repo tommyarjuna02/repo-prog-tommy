@@ -1,2 +1,5 @@
-#repo-prog-tommy
+program sesuai rps
 Rrepository untuk menyimpan data
+membuat program sesuai rps
+program pembelajaran
+membuat laporan
